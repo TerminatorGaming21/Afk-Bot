@@ -1,13 +1,13 @@
 {
   "bot-account": {
     "username": "bot",
-    "password": "your_password",
-    "type": "microsoft"
+    "password": "",
+    "type": "mojang"
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "GGBOIS-a3q5.aternos.me",
+    "port": 23099,
     "version": "1.19.3"
   },
 
